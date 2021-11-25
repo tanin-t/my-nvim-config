@@ -1,5 +1,7 @@
 # My Neovim Config
 
+Minimal neovim config, for editing config files not serious coding
+
 ## Installation
 
 Install neovim
