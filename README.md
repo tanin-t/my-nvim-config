@@ -20,9 +20,9 @@ Clone this project into `~/.config/nvim`
 
 ```bash
 mkdir -p ~/.config
-git clone ... ~/.config/nvim
+git clone git@github.com:tanin-t/my-nvim-config.git ~/.config/nvim
 ```
 
 Install plugins
-> in nvim, run `:PlugInstall` command
+> inside nvim, run `:PlugInstall` command
 
